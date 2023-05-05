@@ -1,0 +1,22 @@
+{
+  "name": "bookwise",
+  "version": "1.0.0",
+  "description": "Library tracking application",
+  "main": "main.js",
+  "scripts": {
+    "test": "bwtest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamakazi152/BookWise.git"
+  },
+  "author": "kamakazi152",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Kamakazi152/BookWise/issues"
+  },
+  "homepage": "https://github.com/Kamakazi152/BookWise#readme",
+  "devDependencies": {
+    "electron": "^24.2.0"
+  }
+}
